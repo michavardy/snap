@@ -1,0 +1,30 @@
+{   
+    "dataset": [
+        {
+            "data": "12/11 dana work 7-20",
+            "data_field_name": "message",
+            "data_type": "date",
+            "params": {"current_date":"year: 2024, month: 11, day: 10"},
+            "label": 
+                {
+                    "year": 2024,
+                    "month": 11,
+                    "day": 12
+                }
+        },
+        {
+            "data": "thursday boulder 19-21",
+            "data_field_name": "message",
+            "data_type": "week",
+            "params": {"current_date":"year: 2024, month: 11, day: 10", "current_day": "sunday"},
+            "label": 
+                {
+                    "year": 2024,
+                    "month": 11,
+                    "day": 14
+                }
+              
+        }
+    ]
+
+}

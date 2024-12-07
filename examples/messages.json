@@ -1,0 +1,52 @@
+{
+    "dataset": [
+        {
+            "data": "Thursday off but dinner at galias with nurses",
+            "data_field_name": "message",
+            "params": {
+                "current_date": {
+                    "year": 2024,
+                    "week": 46,
+                    "weekday": 1
+                },
+                "target_day": 4
+            },
+            "label_field_name": "message_date",
+            "label": {
+                "message": "thursday off but dinner at galias with nurses",
+                "year": 2024,
+                "week": 46,
+                "weekday": 4
+            }
+        },
+        {
+            "data": "2024-44-1 Sunday work 7-21",
+            "data_field_name": "message",
+            "params": {
+                "target_week_start": {"year": 2024, "week": 44, "weekday": 1},
+                "target_week_end": {"year": 2024, "week": 44, "weekday": 7}
+            },
+            "label_field_name": "message_date",
+            "label": {
+                "message": "2024-44-1 Sunday work 7-21",
+                "year": 2024,
+                "week": 44,
+                "weekday": 7
+            }
+        },
+        {
+            "data": "friday 2024-45-5 party at galias",
+            "data_field_name": "message",
+            "params": {
+                "current_date": {"year": 2024, "week": 44, "weekday": 3}
+            },
+            "label_field_name": "message_date",
+            "label": {
+                "message": "friday 2024-45-5 party at galias",
+                "year": 2024,
+                "week": 45,
+                "weekday": 5
+            }
+        }
+    ]
+}

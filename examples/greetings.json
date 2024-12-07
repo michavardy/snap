@@ -1,0 +1,12 @@
+{
+    "dataset": [{
+        "data": "good morning",
+        "data_field_name": "greetings",
+        "data_variation_name":"standard",
+        "data_params": {},
+        "label": {
+            "response": "thanks, you too"
+        }
+    }
+    ]
+}

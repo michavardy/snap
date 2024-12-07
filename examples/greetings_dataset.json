@@ -1,0 +1,202 @@
+[
+    {
+        "data": {
+            "data": "good evening",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good night"
+        }
+    },
+    {
+        "data": {
+            "data": "good afternoon",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good afternoon, how are you doing?"
+        }
+    },
+    {
+        "data": {
+            "data": "good morning",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good morning, have a great day"
+        }
+    },
+    {
+        "data": {
+            "data": "hello",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "hello, how are you?"
+        }
+    },
+    {
+        "data": {
+            "data": "good afternoon",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good afternoon, how are you doing today?"
+        }
+    },
+    {
+        "data": {
+            "data": "good evening",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good evening, how are you?"
+        }
+    },
+    {
+        "data": {
+            "data": "good evening",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good night"
+        }
+    },
+    {
+        "data": {
+            "data": "good afternoon",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good afternoon, how are you doing?"
+        }
+    },
+    {
+        "data": {
+            "data": "good afternoon",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good afternoon, how are you doing today?"
+        }
+    },
+    {
+        "data": {
+            "data": "good evening",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good evening, how are you?"
+        }
+    },
+    {
+        "data": {
+            "data": "good morning",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good morning, have a great day!"
+        }
+    },
+    {
+        "data": {
+            "data": "good day",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "hello, have a great day"
+        }
+    },
+    {
+        "data": {
+            "data": "good afternoon",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good evening"
+        }
+    },
+    {
+        "data": {
+            "data": "hello",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "hello, how are you doing?"
+        }
+    },
+    {
+        "data": {
+            "data": "good afternoon",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good afternoon, how are you doing?"
+        }
+    },
+    {
+        "data": {
+            "data": "good evening",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good evening, how are you?"
+        }
+    },
+    {
+        "data": {
+            "data": "hello",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "hello, how are you?"
+        }
+    },
+    {
+        "data": {
+            "data": "hi",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "hello, have a great day!"
+        }
+    },
+    {
+        "data": {
+            "data": "good evening",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good night"
+        }
+    },
+    {
+        "data": {
+            "data": "good afternoon",
+            "data_field_name": "greetings",
+            "data_variation_name": "standard"
+        },
+        "label": {
+            "response": "good afternoon, how are you doing?"
+        }
+    }
+]

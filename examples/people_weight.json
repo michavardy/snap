@@ -1,0 +1,16 @@
+{
+    "dataset": [{
+        "data": {
+            "name": "John Paper",
+            "age": 44
+        },
+        "data_field_name": "people_name_age",
+        "data_variation_name":"name_age",
+        "data_params": {},
+        "label": {
+            "weight": 85,
+            "unit": "kg"
+        }
+    }
+    ]
+}
